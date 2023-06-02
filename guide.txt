@@ -1,0 +1,22 @@
+0 - General
+>Pick some fonts
+>English/Spanish func
+>Get bike thumbnail
+>Get colors
+>Get cool bg
+
+1 - NavBar
+>efecto hover bg cambia color
+
+
+2 - Home 
+>Hacer height de secciones, decide how much width
+
+
+3 - Proyectos
+>Make project card
+>Load the projects
+
+
+4 - Language button
+>Make component for language
