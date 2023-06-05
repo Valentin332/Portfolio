@@ -1,7 +1,7 @@
    export const dataEsp = [{
 nombre: 'Moto Shop Landing Page',
 tipo: 'Practica/Personal',
-tecnologias: 'react',
+tecnologias: 'react, tailwindcss, redux',
 descripción: 'Un proyecto mock-up hecho con react, react-router y tailwind. Incluye distintas vistas, paginas personalizadas para ver cada moto y secciones especificas de consulta e historia de la empresa.',
 img: '/public/thumbnails/bikethumb.png',
 link: 'https://silver-quokka-5651b6.netlify.app/'
@@ -17,7 +17,7 @@ link: 'https://keen-chebakia-b80096.netlify.app/'
 {
 nombre: 'ToDo List',
 tipo: 'Practica/Personal',
-tecnologias: 'react',
+tecnologias: 'react, bootstrap',
 descripción: 'Una lista para asignar, editar y seguir tareas. Permite añadir fechas de vencimiento/expiración.',
 img: '/public/thumbnails/todothumb.png',
 link: 'https://luxury-kheer-6960ac.netlify.app/'
@@ -27,7 +27,7 @@ link: 'https://luxury-kheer-6960ac.netlify.app/'
  export const dataIng = [{
     nombre: 'Motorcycle Shop Landing Page',
     tipo: 'Practise/Personal',
-    tecnologias: 'react',
+    tecnologias: 'react, tailwindcss, redux',
     descripción: 'A mock-up project made with  react, react-router and tailwind. It includes multiple views, personalized pages for each motorcycle and specific sections for contact and the history of the brand.',
     img: '/public/thumbnails/bikethumb.png',
     link: 'https://silver-quokka-5651b6.netlify.app/'
@@ -43,7 +43,7 @@ link: 'https://luxury-kheer-6960ac.netlify.app/'
     {
     nombre: 'ToDo List',
     tipo: 'Practise/Personal',
-    tecnologias: 'react',
+    tecnologias: 'react, bootstrap',
     descripción: 'A todo list to assign, edit and track tasks. You can add expiration dates to it',
     img: '/public/thumbnails/todothumb.png',
     link:'https://luxury-kheer-6960ac.netlify.app/'
