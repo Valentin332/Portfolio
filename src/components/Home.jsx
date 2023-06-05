@@ -20,7 +20,7 @@ return(
       </div>
       
 <article id='about' className='flex flex-col md:flex-row'>
-<img className=" h-1/2 md:h-[60rem] border  rounded-xl" src='../../public/val.png.png'/>
+<img className=" h-1/2 md:h-[60rem] border  rounded-xl" src='../../val.png.png'/>
 <div className=" text-2xl md:text-4xl">
  {lenguaje.current == "Español" ?
    <p className=" px-2 leading-loose md:p-0  md:ml-4">Me llamo Valentín Fidao, soy un desarrollador web autodidacta que está en busca de nuevas oportunidades y desafios.
@@ -48,18 +48,18 @@ return(
    <FontAwesomeIcon icon={faPhp} style={{color: "purple",}} /> PHP.
       </li>   
   <li className="my-6">
-   <img className='inline w-8 h-8 md:w-10 md:h-10' src='../../public/logos/Tailwind_CSS_Logo.svg.png'/> TailwindCSS,{" "} 
+   <img className='inline w-8 h-8 md:w-10 md:h-10' src='../../logos/Tailwind_CSS_Logo.svg.png'/> TailwindCSS,{" "} 
    <FontAwesomeIcon icon={faBootstrap} style={{color:'purple',}}/> Bootstrap.</li>
   <li className="my-6">
    <FontAwesomeIcon icon={faReact} style={{color:'blue',}}/>React,{" "} 
-   <img className='inline w-8 h-8 md:w-10 md:h-10' src='../../public/logos/redux_logo.png'/> Redux,{' '} 
-   <img className='inline w-8 h-8 md:w-10 md:h-10' src='../../public/logos/typescript_logo.png'/> Typescript.
+   <img className='inline w-8 h-8 md:w-10 md:h-10' src='../../logos/redux_logo.png'/> Redux,{' '} 
+   <img className='inline w-8 h-8 md:w-10 md:h-10' src='../../logos/typescript_logo.png'/> Typescript.
   </li>
   </ul>
 
   <ul>
   <li  className="my-6">
-  <img className='inline w-8 h-8 md:w-10 md:h-10' src='../../public/logos/vite_js.png'/> Vite.JS,{' '} 
+  <img className='inline w-8 h-8 md:w-10 md:h-10' src='../../logos/vite_js.png'/> Vite.JS,{' '} 
    <FontAwesomeIcon icon={faGitSquare} /> Git,{' '} 
   <FontAwesomeIcon icon={faGithub} />Github.
   </li>
