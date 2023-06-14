@@ -12,7 +12,7 @@ console.log(idioma)
 };
 
 return(
-<div>
+<div className='font-[Roboto]'>
 <NavBar
 current = {idioma} 
 />

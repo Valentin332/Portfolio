@@ -19,8 +19,8 @@ return(
       </button>
       </div>
       
-<article id='about' className='flex flex-col md:flex-row'>
-<img className=" h-1/2 md:h-[60rem] border  rounded-xl" src='../../val.png.png'/>
+<article id='about' className='flex flex-col md:px-2 md:flex-row'>
+<img className=" h-1/3 md:h-[50rem] border  rounded-xl" src='../../val.png.png'/>
 <div className=" text-2xl md:text-4xl">
  {lenguaje.current == "Español" ?
    <p className=" px-2 leading-loose md:p-0  md:ml-4">Me llamo Valentín Fidao, soy un desarrollador web autodidacta que está en busca de nuevas oportunidades y desafios.
@@ -36,7 +36,7 @@ return(
    </div>
 </article>
 <article className=" text-2xl md:text-4xl my-40 text-center" id='skills'>
-<h2 className=' my-4 text-3xl md:text-5xl'>{lenguaje.current == "Español" ? "Lo que sé :" : "My skills:"}</h2>
+<h2 className=' my-4 text-3xl md:text-5xl'>{lenguaje.current == "Español" ? "Habilidades :" : "My skills:"}</h2>
 <div className='grid grid-cols-2'>
 <ul>
   <li className="my-6">
